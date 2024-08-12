@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next**
 
-- 👨‍💻 All of my projects are available at [arjunvijay.online](arjunvijay.online)
+- 👨‍💻 All of my projects are available at [arjunvijay.online](https://courageous-froyo-856948.netlify.app/)
 
 - 📫 How to reach me **arjunvijay2002113@gmail.com**
 
